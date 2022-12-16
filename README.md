@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-<img width="350" height="200" src=https://raw.githubusercontent.com/kkardousk/aoe/master/ao2_logo.jpg?token=GHSAT0AAAAAAB4OXJAWIL4GMHVYYYTVJHH6Y44UR5A>
+<img width="350" height="200" src=https://raw.githubusercontent.com/kkardousk/aoe/master/aoe2_de.jpg?token=GHSAT0AAAAAAB4OXJAW4KQMN2264BIMEQTEY44U5IQ>
 </p>
 
 This analysis will explore and look at a few factors that potentially influence in-game win rates (positively/negatively).
